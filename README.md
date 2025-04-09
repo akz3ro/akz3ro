@@ -63,7 +63,7 @@
     ><img src="./images/profile/telegram.svg" height="35" alt="telegram logo" />
   </a>
  <img width="5" />
-  <a href="http://paypal.me/akzeroHQ" target="_blank" rel="noopener noreferrer"
+  <a href="http://paypal.me/akz3ro" target="_blank" rel="noopener noreferrer"
     ><img src="./images/profile/paypal.svg" height="35" alt="paypal logo" />
   </a>
  <img width="5" />
