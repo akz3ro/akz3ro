@@ -510,6 +510,21 @@
 
 ###
 
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/akz3ro/akz3ro/output/pacman-contribution-graph-dark.svg"
+    />
+    Dark‑mode Pacman
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/akz3ro/akz3ro/output/pacman-contribution-graph.svg"
+    />
+    fallback
+  </picture>
+</div>
+
 <!-- Snake Animation -->
 <!-- <div align="center">
   <picture>
