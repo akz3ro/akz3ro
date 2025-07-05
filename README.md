@@ -260,7 +260,7 @@
 
   <img width="5" />
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="./assets/tech-stack/nestjs.svg" height="40" alt="nestjs logo"  />
+    <img src="./assets/tech-stack/nestjs.svg" height="30" alt="nestjs logo"  />
   </a>
 
   <img width="5" />
@@ -274,12 +274,12 @@
 
   <img width="5" />
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="./assets/tech-stack/redis.svg" height="40" alt="redis logo"  />
+    <img src="./assets/tech-stack/redis.svg" height="30" alt="redis logo"  />
   </a>
 
   <img width="5" />
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="./assets/tech-stack/postgresql-plain.svg" height="40" alt="postgresql logo"  />
+    <img src="./assets/tech-stack/postgresql-plain.svg" height="30" alt="postgresql logo"  />
   </a>
 
   <img width="5" />
@@ -293,24 +293,10 @@
 
   <img width="5" />
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-
-  <picture>
-      <!-- Dark mode trophy -->
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="./assets/tech-stack/next-white.png"
-      />
-      <!-- Light mode trophy -->
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="./assets/tech-stack/nextjs-original.svg"
-      />
-      <!-- Fallback (light) -->
-      <img
-      src="./assets/tech-stack/next-white.png"
-      height="30"
-      alt="nextjs logo"
-    />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-stack/next-white.png" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/tech-stack/nextjs-original.svg" />
+      <img src="./assets/tech-stack/next-white.png" height="30" alt="nextjs logo" />
     </picture>
   </a>
 
