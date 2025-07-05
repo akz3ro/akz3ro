@@ -26,8 +26,8 @@
 ###
 
 <div align="center">
-  <a href="mailto:abdulrahman.mahmoud.alkurdi@gmail.com"
-    ><img src="./assets/about/gmail.svg" height="35" alt="gmail logo" />
+  <a href="mailto:abdulrahman@akz3ro.com"
+    ><img src="./assets/about/mail.svg" height="35" alt="mail logo" />
   </a>
  <img width="5" />
   <a
@@ -155,7 +155,7 @@
     />
   </a>
 
-   <img width="5" />
+  <img width="5" />
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
       src="./assets/tech-stack/tailwindcss-icon.svg"
@@ -164,7 +164,7 @@
     />
   </a>
 
-   <img width="5" />
+  <img width="5" />
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
       src="./assets/tech-stack/sass-original.svg"
@@ -173,7 +173,7 @@
     />
   </a>
 
-   <img width="5" />
+  <img width="5" />
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -186,7 +186,7 @@
     />
   </a>
 
-   <img width="5" />
+  <img width="5" />
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="./assets/tech-stack/typescript-original.svg"
@@ -195,7 +195,7 @@
     />
   </a>
 
-   <img width="5" />
+  <img width="5" />
   <a href="https://eslint.org/" target="_blank" rel="noreferrer">
     <img
       src="./assets/tech-stack/eslint-original.svg"
@@ -204,7 +204,7 @@
     />
   </a>
 
-   <img width="5" />
+  <img width="5" />
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="./assets/tech-stack/react-original.svg"
@@ -213,7 +213,7 @@
     />
   </a>
 
-   <img width="5" />
+  <img width="5" />
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
       src="./assets/tech-stack/redux-original.svg"
@@ -222,17 +222,16 @@
     />
   </a>
 
-   <img width="5" />
+  <img width="5" />
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="./assets/tech-stack/nodejs-original.svg"
       height="30"
-      1
       alt="nodejs logo"
     />
   </a>
 
-   <img width="5" />
+  <img width="5" />
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
     <img
       src="./assets/tech-stack/npm-original-wordmark.svg"
@@ -240,16 +239,17 @@
       alt="npm logo"
     />
   </a>
-   <img width="5" />
+
+  <img width="5" />
   <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
     <img
       src="./assets/tech-stack/file-type-light-pnpm.svg"
       height="30"
-      alt="npm logo"
+      alt="pnpm logo"
     />
   </a>
 
-   <img width="5" />
+  <img width="5" />
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img
       src="./assets/tech-stack/express-original.svg"
@@ -263,7 +263,7 @@
     <img src="./assets/tech-stack/nestjs.svg" height="40" alt="nestjs logo"  />
   </a>
 
-   <img width="5" />
+  <img width="5" />
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="./assets/tech-stack/mongodb-original.svg"
@@ -279,10 +279,10 @@
 
   <img width="5" />
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="./assets/tech-stack/postgresql-plain.svg" height="40" alt="redis logo"  />
+    <img src="./assets/tech-stack/postgresql-plain.svg" height="40" alt="postgresql logo"  />
   </a>
 
-   <img width="5" />
+  <img width="5" />
   <a href="https://socket.io/" target="_blank" rel="noreferrer">
     <img
       src="./assets/tech-stack/socketio-original.svg"
@@ -291,7 +291,7 @@
     />
   </a>
 
-   <img width="5" />
+  <img width="5" />
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
 
   <picture>
@@ -314,7 +314,7 @@
     </picture>
   </a>
 
-   <img width="5" />
+  <img width="5" />
   <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
     <img
       src="./assets/tech-stack/markdown-original.svg"
@@ -323,7 +323,7 @@
     />
   </a>
 
-   <img width="5" />
+  <img width="5" />
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img
       src="./assets/tech-stack/jest-plain.svg"
@@ -332,7 +332,7 @@
     />
   </a>
 
-   <img width="5" />
+  <img width="5" />
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="./assets/tech-stack/docker-original.svg"
@@ -341,7 +341,7 @@
     />
   </a>
 
-   <img width="5" />
+  <img width="5" />
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="./assets/tech-stack/git-original.svg"
@@ -350,7 +350,7 @@
     />
   </a>
 
-   <img width="5" />
+  <img width="5" />
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img
       src="./assets/tech-stack/github-original.svg"
