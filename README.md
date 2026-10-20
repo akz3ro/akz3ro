@@ -59,21 +59,17 @@
   </a>
  <img width="5" />
   <a
-    href="https://discordapp.com/users/akzero"
+    href="https://discordapp.com/users/akz3ro"
     target="_blank"
     rel="noopener noreferrer"
     ><img src="./assets/about/discord.svg" height="35" alt="discord logo"
   /></a>
  <img width="5" />
   <a
-    href="https://wa.me/+201224620279"
+    href="https://wa.me/+201503078889"
     target="_blank"
     rel="noopener noreferrer"
     ><img src="./assets/about/whatsapp.svg" height="35" alt="whatsapp logo" />
-  </a>
- <img width="5" />
-  <a href="https://t.me/akz3ro" target="_blank" rel="noopener noreferrer"
-    ><img src="./assets/about/telegram.svg" height="35" alt="telegram logo" />
   </a>
  <img width="5" />
   <a href="http://paypal.me/akz3ro" target="_blank" rel="noopener noreferrer"
