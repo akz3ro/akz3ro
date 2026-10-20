@@ -31,7 +31,7 @@
   </a>
  <img width="5" />
   <a
-    href="https://www.linkedin.com/in/ak-zero/"
+    href="https://www.linkedin.com/in/akzero"
     target="_blank"
     rel="noopener noreferrer"
     ><img src="./assets/about/linkedin.svg" height="35" alt="linkedin logo" />
