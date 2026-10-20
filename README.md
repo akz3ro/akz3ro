@@ -531,9 +531,9 @@
 
 <div align="center">
   <img
-      src="https://profile-counter.glitch.me/akz3ro/count.svg?"
-      alt="Profile views counter"
-    />
+    src="https://komarev.com/ghpvc/?username=akz3ro&label=Profile%20views&color=0e75b6&style=flat-square"
+    alt="Profile views counter"
+  />
 </div>
 
 ###
